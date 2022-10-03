@@ -1,0 +1,9 @@
+.goal-items__new{
+    background-color: rgba(197, 39, 89, 0.948);
+    width: 60rem;
+    margin: 2rem auto;
+    padding: 1.5rem 3rem;
+    color: #fff;
+    font-size: 1.7rem;
+    max-width: 80%;
+}

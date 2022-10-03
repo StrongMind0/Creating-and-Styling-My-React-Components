@@ -1,0 +1,13 @@
+:root{
+    font-size: 62.5%;
+}
+
+.new-goal{
+    background-color: #ccc;
+    width: 45rem;
+    /* height: 600px; */
+    max-width: 90%;
+    border-radius: 12px;
+    margin: 5rem auto;
+    padding: 3rem;
+}

@@ -1,0 +1,40 @@
+:root{
+    font-size: 62.5%;
+}
+
+
+.goal-form__controls label{
+    font-weight: bolder;
+    display: block;
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+}
+
+.goal-form__controls input{
+    width: 100%;
+    margin-bottom: 1rem;
+    border-color: transparent;
+    outline: none;
+    height: 2.5rem;
+}
+
+.goal-form__controls input:focus{
+    background-color:salmon ;
+}
+
+
+.goal-form button{
+    background-color:rgba(197, 39, 89, 0.948);
+    border-color: rgba(197, 39, 89, 0.948);
+    /* margin-bottom: 1rem; */
+    cursor: pointer;
+    color: white;
+    padding: 0.8rem 2rem;
+    /* font-weight: bold; */
+    font-size: 1.5rem;
+
+}
+
+.goal-form button:hover{
+    background-color:rgba(209, 19, 79, 0.948) ;
+}
